@@ -140,9 +140,3 @@ wandb.finish()
 Instructions to run **W&B** in **kaggle**:
 - Upload your `wandb-key` to Kaggle secrets as `wandb-key`
 ---
-```
-
----
-
-Let me know if you want me to include sample `train_model`, `log_predictions_to_wandb`, or `Seq2SeqRNN` code blocks in the README as well.
-```
